@@ -3,5 +3,5 @@ number of sequences or contigs, the average sequence length,
 the total number of bases, the minimum and the maximum sequence length, 
 and the %GC.
 AUTHOR: Bruno Gomez-Gil (modified from script by Joseph Fass <- Brad Sickler)
-AST REVISED: Agst 2016
+LAST REVISED: Agst 2016
 USAGE: basic_stats.pl your_fasta_file
