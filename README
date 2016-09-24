@@ -1,7 +1,17 @@
+# basic_stats.pl
+
 This program reads a fasta file, then computes and reports
 number of sequences or contigs, the average sequence length,
 the total number of bases, the minimum and the maximum sequence length, 
 and the %GC.
+## Installation
+
+Download and make executable ```chmod +x basic_stats.pl```
+
+## Usage
+
+```$ perl basic_stats.pl file```
+
 AUTHOR: Bruno Gomez-Gil (modified from script by Joseph Fass <- Brad Sickler)
+
 LAST REVISED: Agst 2016. Still need some polishing but it works.
-USAGE: basic_stats.pl your_fasta_file
